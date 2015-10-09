@@ -16,7 +16,7 @@ url: "http://priyasingh.xyz"
 # HTML Head #
 #############
 
-author: "John Smith"
+author: ""
 lang: "en"
 title: " Priya Singh "
 favicon: "/img/icon.ico"
@@ -91,8 +91,6 @@ social:
     url: "http://facebook.com/profile.php?refid=8"
   - title: "twitter"
     url: "http://twitter.com/"
-  - title: "youtube"
-    url: "http://youtube.com/"
   - title: "github"
     url: "https://github.com/priyasingh1501"
   - title: "rss"
@@ -114,8 +112,11 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
-  Career: 'career'
+  Education: 'blog'
+  Skills: 'blog'
+  Projects: 'career'
+  Volunteering: 'blog'
+  Awards: 'blog'
   Contact: 'contact'
 
 # Pagination path
