@@ -19,7 +19,7 @@ url: "http://priyasingh.xyz"
 author: "John Smith"
 lang: "en"
 title: " Priya Singh "
-favicon: "/img/favicon.ico"
+favicon: "/img/icon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "priya, singh, juit, jaypee, university, information, technology"
 
@@ -28,23 +28,25 @@ keywords: "priya, singh, juit, jaypee, university, information, technology"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/intro-bg.jpg"
-me-img: "/img/jetpacktocat.png"
+background-img: "../img/back.jpg"
+me-img: "/img/Priya.jpg"
 
 ##############################
 # Dynamic Text on the header #
 ##############################
 
 dynamic-typing: True
-shuffle: True	# Shuffle the lines.
+shuffle: False	# Shuffle the lines.
 loop: True
 loop-count:	False # Set False for infinite loop, or set any number for finite loop.
 type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Keep Looking, don't settle"
-  - text: "Yo"
+  - text: "Chances"
+  - text: "Choices"
+  - text: "Changes"
+ 
 
 ########
 # Blog #
