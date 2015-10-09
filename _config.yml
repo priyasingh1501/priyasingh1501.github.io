@@ -8,7 +8,7 @@ url: "http://priyasingh1501.github.io/"
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
+baseurl: /priyasingh.github.io
 
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
@@ -18,8 +18,8 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 author: "John Smith"
 lang: "en"
-title: "{ Priya Singh }"
-favicon: "img/favicon.ico"
+title: " Priya Singh "
+favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 
