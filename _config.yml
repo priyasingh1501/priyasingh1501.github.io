@@ -22,13 +22,13 @@ lang: "en"
 title: " Priya Singh "
 favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "priya, singh, juit, jaypee, university, information, technology"
 
 ################
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/black-lab-glass.ico"
 background-img: "../img/intro-bg.jpg"
 me-img: "/img/jetpacktocat.png"
 
