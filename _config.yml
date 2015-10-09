@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "http://panossakkos.github.io"
+url: "http://priyasingh1501.github.io/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -18,8 +18,8 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 author: "John Smith"
 lang: "en"
-title: "{ John Smith }"
-favicon: "/img/favicon.ico"
+title: "{ Priya Singh }"
+favicon: "img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 
@@ -43,8 +43,8 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Keep Looking, don't settle"
+  - text: "Yo"
 
 ########
 # Blog #
@@ -57,7 +57,7 @@ paginate: 5
 fb-share: True
 twitter-share: True
 reddit-share: True
-disqus-shortname: "panossakkos"
+disqus-shortname: "Priya Singh"
 
 ###############
 # Life Events #
@@ -86,13 +86,13 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "http://facebook.com/"
+    url: "http://facebook.com/profile.php?refid=8"
   - title: "twitter"
     url: "http://twitter.com/"
   - title: "youtube"
     url: "http://youtube.com/"
   - title: "github"
-    url: "https://github.com/"
+    url: "https://github.com/priyasingh1501"
   - title: "rss"
     url: "/feed.xml"
 
